@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)",
+      "lastVersionId": "1.10.2-forge1.10.2-12.18.1.2011",
+      "javaArgs": "-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "clientToken": "acd7eacf-0e28-4c76-bc6b-7a81794d402d",
+  "authenticationDatabase": {
+    "5627dd98e6be3c21b8a8e92344183641": {
+      "displayName": "Steve",
+      "userid": "Steve",
+      "uuid": "5627dd98-e6be-3c21-b8a8-e92344183641",
+      "username": "Steve"
+    }
+  },
+  "selectedUser": "5627dd98e6be3c21b8a8e92344183641",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16
+  }
+}
