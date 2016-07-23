@@ -2,12 +2,12 @@
   "profiles": {
     "(Default)": {
       "name": "(Default)",
-      "lastVersionId": "1.10.2-forge1.10.2-12.18.1.2014",
+      "lastVersionId": "1.10.2-forge1.10.2-12.18.1.2018",
       "javaArgs": "-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
     }
   },
   "selectedProfile": "(Default)",
-  "clientToken": "e34946da-6a8c-4da3-8048-ebaca99c24f2",
+  "clientToken": "2ae1c1ad-428e-4819-a30d-217b17747cb4",
   "authenticationDatabase": {
     "5627dd98e6be3c21b8a8e92344183641": {
       "displayName": "Steve",
