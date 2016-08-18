@@ -2,8 +2,12 @@
   "profiles": {
     "(Default)": {
       "name": "(Default)",
-      "lastVersionId": "1.10.2-forge1.10.2-12.18.1.2064",
+      "lastVersionId": "1.10.2-forge1.10.2-12.18.1.2066",
       "javaArgs": "-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
+    },
+    "forge": {
+      "name": "forge",
+      "lastVersionId": "1.10.2-forge1.10.2-12.18.1.2066"
     }
   },
   "selectedProfile": "(Default)",
